@@ -53,5 +53,32 @@ h1 {
 color: #FFBC00;
 font-size: 60px;
 font-weight: bold;
-font-family: "Fashion One";
-{
+font-family: "Passion One";
+}
+
+h3 {
+color: #FFBC00;
+font-size: 40px;
+font-weight: bold;
+font-family: "Passion One";
+}
+
+p {
+h1 {
+color: white;
+font-weight: bold;
+font-family: Arial;
+}
+
+p {
+color: white;
+font-family: Arial;
+font-weight: bold;
+padding: 10px
+}
+
+#bow {
+font-family: Arial;
+font-size: 20px:
+color: #FFBC00;
+}
