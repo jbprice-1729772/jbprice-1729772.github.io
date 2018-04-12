@@ -63,7 +63,6 @@ font-weight: bold;
 font-family: "Passion One";
 }
 
-p {
 h1 {
 color: white;
 font-weight: bold;
@@ -81,4 +80,8 @@ padding: 10px
 font-family: Arial;
 font-size: 20px:
 color: #FFBC00;
+}
+
+body{
+	background-image: url('dark_wood.png');
 }
