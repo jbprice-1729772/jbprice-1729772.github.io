@@ -1,19 +1,18 @@
-#header {
-border: solid 8 px black;
-width: 500px;
-text-align: center;
-margin-left: auto;
-margin-right: auto;
-margin-bottom: 10px;
+#Header{
+	border: solid 8px black;
+	width: 500px; 
+	text-align: center;
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-bottom: 10px; 
 }
-
-#content {
-border: solid 8 px black;
-width: 700px;
-text-align: center;
-margin-left: auto;
-margin-right: auto;
-margin-bottom: 10px; 
+#Content{
+	border: solid 8px black;
+	width: 700px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
 }
 
 #LeftNav {
@@ -26,7 +25,7 @@ margin-bottom: 10px;
 float: left;
 }
 
-#footer {
+#Footer {
 border: solid 8 px black;
 text-align: center;
 margin-left: auto;
